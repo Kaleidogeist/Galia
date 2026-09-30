@@ -634,6 +634,24 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Rating",
+          "name": "Rating",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -684,7 +702,7 @@
         "uuid": "ecc00314-3f71-498a-8094-cc2ff02afc14"
       }
     ],
-    "used_designators": "SW1-31,C1-4",
+    "used_designators": "SW1-31",
     "variants": []
   },
   "sheets": [

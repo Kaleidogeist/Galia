@@ -63,11 +63,11 @@
           "hatch_thickness": 1.0,
           "min_clearance": 0.0,
           "min_island_area": 10.0,
-          "min_thickness": 0.2,
+          "min_thickness": 0.19,
           "pad_connection": 2,
           "remove_islands": 0,
-          "thermal_relief_gap": 0.5,
-          "thermal_relief_spoke_width": 0.5
+          "thermal_relief_gap": 0.2,
+          "thermal_relief_spoke_width": 0.6
         }
       },
       "diff_pair_dimensions": [
@@ -79,31 +79,55 @@
       ],
       "drc_exclusions": [
         [
-          "copper_edge_clearance|17063737|18648781|ede0567c-205e-46cf-9676-a875f6b3cb5b|bf890621-76e7-4c06-90e2-cbcfd1ec01a7",
+          "copper_edge_clearance|22001965|18937424|ede0567c-205e-46cf-9676-a875f6b3cb5b|bf890621-76e7-4c06-90e2-cbcfd1ec01a7",
           ""
         ],
         [
-          "copper_edge_clearance|17063737|49351218|78a1e44e-3992-40bf-9aa5-5ff761a7d790|072b3806-2691-40a8-aca3-59669634d6fd",
+          "copper_edge_clearance|22001965|49062575|78a1e44e-3992-40bf-9aa5-5ff761a7d790|072b3806-2691-40a8-aca3-59669634d6fd",
           ""
         ],
         [
-          "lib_footprint_mismatch|25150000|24282500|49f69e6b-9cf0-4c2d-8031-8cd19522b192|00000000-0000-0000-0000-000000000000",
+          "courtyards_overlap|26582725|37174347|1181f5dc-7005-4bed-9e59-d18ee724b871|5ac29752-df93-457c-a113-f5db4fd572f5",
           ""
         ],
         [
-          "lib_footprint_mismatch|25150000|43282500|0af4d84c-3f86-4864-be07-b0669129683b|00000000-0000-0000-0000-000000000000",
+          "courtyards_overlap|26677469|30857115|1181f5dc-7005-4bed-9e59-d18ee724b871|926835cb-34e2-4b09-83a5-f3f4893f6740",
           ""
         ],
         [
-          "lib_footprint_mismatch|25182500|33100000|4cb9c0f1-77ff-4805-8c0b-3763153ecba6|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_mismatch|30150000|24407500|49f69e6b-9cf0-4c2d-8031-8cd19522b192|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "unconnected_items|32943317|18999932|F.Cu|4|07920709-fba3-487d-bcb0-f69009aaf3a8|07920709-fba3-487d-bcb0-f69009aaf3a8",
+          "lib_footprint_mismatch|30150000|43207500|0af4d84c-3f86-4864-be07-b0669129683b|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|30845000|35192500|4cb9c0f1-77ff-4805-8c0b-3763153ecba6|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|35207500|20545000|17b3158f-ba74-44da-92c8-db90c327fc62|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|64280000|29150000|fe29f8a9-8a3f-49f1-b084-cb30bb6fcb71|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "unconnected_items|23300000|49020000|F.Cu|4|072b3806-2691-40a8-aca3-59669634d6fd|79ef7e90-c89b-4935-aae4-09ce145be501",
           "Connected via USB and switch shield"
         ],
         [
-          "unconnected_items|55950813|33799500|F.Cu|4|07920709-fba3-487d-bcb0-f69009aaf3a8|07920709-fba3-487d-bcb0-f69009aaf3a8",
+          "unconnected_items|27300000|18980000|F.Cu|4|1a29e727-86ed-47b3-8f51-57495af0a9d1|bf890621-76e7-4c06-90e2-cbcfd1ec01a7",
+          "Connected via USB and switch shield"
+        ],
+        [
+          "unconnected_items|27300000|49020000|F.Cu|4|79ef7e90-c89b-4935-aae4-09ce145be501|3df6f6da-916c-4d5e-a101-1c9ff9ded21f",
+          "Connected via USB and switch shield"
+        ],
+        [
+          "unconnected_items|28408967|19621405|F.Cu|4|8025baf1-8421-4036-8a5e-5fb81914d736|1a29e727-86ed-47b3-8f51-57495af0a9d1",
           "Connected via USB and switch shield"
         ]
       ],
@@ -252,6 +276,7 @@
         0.25,
         0.3,
         0.4,
+        0.45,
         0.6
       ],
       "tuning_pattern_settings": {
@@ -304,7 +329,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "V0.3"
+      "sch_revision": "V0.4"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -554,7 +579,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Motherboard.kicad_pro",
+    "filename": "Motherboard (G0B1).kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -574,8 +599,8 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
         "tuning_profile": "",
-        "via_diameter": 0.45,
-        "via_drill": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
@@ -584,23 +609,30 @@
         "line_style": 0,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
         "tuning_profile": "",
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
         "wire_width": 6
       },
       {
-        "clearance": 0.13,
-        "diff_pair_gap": 0.13,
-        "diff_pair_width": 0.2,
-        "name": "USB",
+        "clearance": 0.2,
+        "name": "Switching",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.15,
+        "diff_pair_gap": 0.15,
+        "diff_pair_width": 0.25,
+        "name": "USB",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
         "tuning_profile": ""
       }
     ],
@@ -611,24 +643,12 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "Default",
-        "pattern": "COL*"
-      },
-      {
         "netclass": "Power",
         "pattern": "GND"
       },
       {
-        "netclass": "Power",
-        "pattern": "+*"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "VBUS"
-      },
-      {
         "netclass": "USB",
-        "pattern": "USB_*"
+        "pattern": "USB*"
       },
       {
         "netclass": "Power",
@@ -636,7 +656,23 @@
       },
       {
         "netclass": "Power",
-        "pattern": "/V*"
+        "pattern": "*V*"
+      },
+      {
+        "netclass": "Switching",
+        "pattern": "SW*"
+      },
+      {
+        "netclass": "Switching",
+        "pattern": "*SPI*"
+      },
+      {
+        "netclass": "Switching",
+        "pattern": "GPIO*"
+      },
+      {
+        "netclass": "Switching",
+        "pattern": "*USART*"
       }
     ]
   },
@@ -829,8 +865,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Motherboard.kicad_sch",
-        "name": "Motherboard",
+        "filename": "Motherboard (G0B1).kicad_sch",
+        "name": "Motherboard (G0B1)",
         "uuid": "534caec7-cf60-4f90-b1ed-42c9d445ef0f"
       }
     ],
@@ -840,7 +876,7 @@
   "sheets": [
     [
       "534caec7-cf60-4f90-b1ed-42c9d445ef0f",
-      "Motherboard"
+      "Motherboard (G0B1)"
     ]
   ],
   "text_variables": {},
