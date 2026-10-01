@@ -1,6 +1,6 @@
-[submodule "Motherboard/GB-Kicad-Master-Library"]
-	path = Motherboard/GB-Kicad-Master-Library
-	url = https://github.com/ghostlybutterfly/GB-Kicad-Master-Library
-[submodule "Daughterboard (Cantaloupe)/GB-Kicad-Master-Library"]
-	path = Daughterboard (Cantaloupe)/GB-Kicad-Master-Library
-	url = https://github.com/ghostlybutterfly/GB-Kicad-Master-Library
+[submodule "Motherboard (G0B1)/Kaleidogeist-KiCad-Library"]
+	path = Motherboard (G0B1)/Kaleidogeist-KiCad-Library
+	url = https://github.com/Kaleidogeist/Kaleidogeist-KiCad-Library
+[submodule "Daughterboard (Cantaloupe)/Kaleidogeist-KiCad-Library"]
+	path = Daughterboard (Cantaloupe)/Kaleidogeist-KiCad-Library
+	url = https://github.com/Kaleidogeist/Kaleidogeist-KiCad-Library

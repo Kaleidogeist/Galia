@@ -88,7 +88,7 @@
 			(outputdirectory "")
 		)
 	)
-	(footprint "GB-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
+	(footprint "Kaleidogeist-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 		(layer "F.Cu")
 		(uuid "07c218b9-3de6-4aa4-bc2d-e3466483ee47")
 		(at 149.225 14.4525 90)
@@ -720,7 +720,7 @@
 			(uuid "ea80ca65-ae52-4472-8446-be3e3ae4d984")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/NXP_SOT763-1.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/NXP_SOT763-1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -732,7 +732,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
+	(footprint "Kaleidogeist-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 		(layer "F.Cu")
 		(uuid "162ee2c3-541a-4c7f-9470-0e813afcb084")
 		(at 34.75 31.25 90)
@@ -1364,7 +1364,7 @@
 			(uuid "45183adc-6481-4d50-bfc1-6856c3391564")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/NXP_SOT763-1.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/NXP_SOT763-1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1376,7 +1376,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "1eb49ad2-18ff-425e-85cb-299f31c76e07")
 		(at 177.85 58.227519)
@@ -1620,7 +1620,7 @@
 			(uuid "cd848acb-f0bf-4430-9f9b-457660883b7b")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1632,7 +1632,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "24b2a6bc-e528-4986-b153-0ef5e37ad5e3")
 		(at 177.85 60.177519)
@@ -1876,7 +1876,7 @@
 			(uuid "dacd3605-5051-48fe-9087-84a74c6cfaec")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1888,7 +1888,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
+	(footprint "Kaleidogeist-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 		(layer "F.Cu")
 		(uuid "26d25919-b8c0-4f66-8849-8c5cd1adcefd")
 		(at 142.225 14.4525 90)
@@ -2520,7 +2520,7 @@
 			(uuid "7d1a702c-5e20-406e-b533-b3be63a33803")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/NXP_SOT763-1.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/NXP_SOT763-1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2532,7 +2532,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "278f2b2d-7af5-4822-8a2b-554bc40a0e62")
 		(at 175.115 54.327519)
@@ -2776,7 +2776,7 @@
 			(uuid "c61b62c5-27c7-4b23-bdec-065966075c12")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2788,7 +2788,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "2868db22-a585-47f8-b560-928b7306832b")
 		(at 180.585 56.277519)
@@ -3032,7 +3032,7 @@
 			(uuid "f41020df-33d0-49eb-93f2-bf1670eaa544")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3044,7 +3044,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "29a0e2ad-3b3a-4360-a5bd-210344d8eccf")
 		(at 175.115 58.227519)
@@ -3288,7 +3288,7 @@
 			(uuid "ba0f2582-ecac-4079-9ff4-4bad9e4c89d3")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3300,7 +3300,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "315fbe70-faea-4561-9cc2-5cfff1941c9b")
 		(at 180.585 58.227519)
@@ -3544,7 +3544,7 @@
 			(uuid "201cd4b0-a6be-4899-94ff-94f1a6688e4a")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3556,7 +3556,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "392ec026-3048-4923-8f80-5ddc406666ff")
 		(at 175.115 56.277519)
@@ -3800,7 +3800,7 @@
 			(uuid "a80393e9-99d3-430a-83a6-dbed89e2aef9")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3812,7 +3812,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "6da59954-5484-40dd-a370-4037ebde9922")
 		(at 174.78 66.027519)
@@ -4068,7 +4068,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "76421163-fd13-4d68-86ea-f03c54e4ee1b")
 		(at 175.115 60.177519)
@@ -4312,7 +4312,7 @@
 			(uuid "66562125-d33c-4597-8e19-83a090a19652")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4324,7 +4324,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
+	(footprint "Kaleidogeist-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 		(layer "F.Cu")
 		(uuid "7d64dfc9-0bca-491e-8997-588d63b66fa4")
 		(at 72.85 21.4275 90)
@@ -4956,7 +4956,7 @@
 			(uuid "42d41de5-13c3-4be2-b4ae-ce64ce8dcc4f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/NXP_SOT763-1.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/NXP_SOT763-1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4968,7 +4968,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "9e8cf821-b764-4f1d-beb8-241946d89e3a")
 		(at 177.85 54.327519)
@@ -5212,7 +5212,7 @@
 			(uuid "512c60ef-5d15-4a59-952e-540806294dcf")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5224,7 +5224,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "aeca4203-18a3-4729-bf26-1d7148ea2dd8")
 		(at 180.585 54.327519)
@@ -5468,7 +5468,7 @@
 			(uuid "916d85e8-6c30-4b21-a764-ff0bb46a408c")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5480,7 +5480,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "b18b696d-5e1e-4276-82b0-dec419bfb42e")
 		(at 174.78 67.977519)
@@ -5736,7 +5736,7 @@
 			)
 		)
 	)
-	(footprint "GB-Breakout:Breakout_GhostlyButterfly_Galia-G0B1"
+	(footprint "Kaleidogeist-Breakout:Breakout_GhostlyButterfly_Galia-G0B1"
 		(layer "F.Cu")
 		(uuid "b1dfed6a-5492-4773-abe1-5107404a575a")
 		(at 130 30 -90)
@@ -6966,7 +6966,7 @@
 			(uuid "45ba85fc-03ba-47a2-adec-19c8503ab639")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Breakout-3D/Breakout_GhostlyButterfly_Galia-G0B1.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Breakout-3D/Breakout_GhostlyButterfly_Galia-G0B1.step"
 			(offset
 				(xyz 0 0 3)
 			)
@@ -6978,7 +6978,7 @@
 			)
 		)
 	)
-	(footprint "GB-Header:PinHeader_2x06_2.54mm_MillMax_PogoPin_823-22-012-10-000101-Double_Sided"
+	(footprint "Kaleidogeist-Header:PinHeader_2x06_2.54mm_MillMax_PogoPin_823-22-012-10-000101-Double_Sided"
 		(layer "F.Cu")
 		(uuid "c3af857c-bf72-409f-8f55-8da33c87b7e0")
 		(at 137.12 52.93)
@@ -7517,7 +7517,7 @@
 			(uuid "e617c2e1-4c9f-4450-b99a-e2439d691f33")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Header-3D/Mill-Max_823-22-012-10-000101.STEP"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Header-3D/Mill-Max_823-22-012-10-000101.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7529,7 +7529,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "c9ea9070-aef1-40ac-952a-cb154b2b8b27")
 		(at 177.85 56.277519)
@@ -7773,7 +7773,7 @@
 			(uuid "5c094e7e-acb7-46b3-825d-515213cb4bcf")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7785,7 +7785,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ee4645ff-7366-46d1-b939-f87cc1247322")
 		(at 174.78 62.127519)
@@ -8041,7 +8041,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "f26e9bdc-9de0-4e8e-86f5-545afbff6d18")
 		(at 174.78 64.077519)
@@ -8297,7 +8297,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "1014b22f-b324-47a7-a478-9180008193e8")
 		(at 44.275 61.90875 180)
@@ -9916,7 +9916,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -9927,7 +9927,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9939,7 +9939,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "1080d3cc-4392-4b45-8166-218e110c42d2")
 		(at 25.225 100.00875 180)
@@ -11558,7 +11558,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -11569,7 +11569,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11581,7 +11581,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "1861d5bb-67f7-4002-9d34-382d995facf3")
 		(at 82.375 30.9525 180)
@@ -13200,7 +13200,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -13211,7 +13211,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13223,7 +13223,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "23f47375-5f5d-424a-b97e-9f2a18738bd5")
 		(at 25.225 61.90875 180)
@@ -14842,7 +14842,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -14853,7 +14853,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14865,7 +14865,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "26ea0aea-cadd-4583-b31b-fe8535a7d0eb")
 		(at 63.325 71.91 180)
@@ -16484,7 +16484,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -16495,7 +16495,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16507,7 +16507,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "270190da-7c02-4265-89ef-8eb67ea00173")
 		(at 63.325 52.86 180)
@@ -18126,7 +18126,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -18137,7 +18137,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18149,7 +18149,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "28320a32-bf37-44d3-ae9b-ebf82d8b02ba")
 		(at 82.375 69.0525 180)
@@ -19768,7 +19768,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -19779,7 +19779,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19791,7 +19791,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "28db9a2f-273f-4cec-8b51-5204bd00777c")
 		(at 25.225 80.95875 180)
@@ -21410,7 +21410,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -21421,7 +21421,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21433,7 +21433,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "306d7ed5-7932-40bd-9e83-df94879f06c8")
 		(at 44.275 42.85875 180)
@@ -23045,7 +23045,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -23056,7 +23056,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23068,7 +23068,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "314b3490-2ee0-427d-a05a-5ef4f7538981")
 		(at 44.275 80.95875 180)
@@ -24687,7 +24687,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -24698,7 +24698,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24710,7 +24710,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "317fc361-e541-481f-83cc-d89327afd93f")
 		(at 147.485009 129.150268 147.5)
@@ -26329,7 +26329,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -26340,7 +26340,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26352,7 +26352,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "416e40e1-0925-40af-b8a6-7a09777dd096")
 		(at 101.425 55.7175 180)
@@ -27971,7 +27971,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -27982,7 +27982,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27994,7 +27994,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "4f382369-e295-4aed-b912-03087bf1818f")
 		(at 44.275 100.00875 180)
@@ -29613,7 +29613,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -29624,7 +29624,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29636,7 +29636,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "5e6fa2a1-f85a-4f65-ad1f-7165394f786a")
 		(at 25.225 42.85875 180)
@@ -31255,7 +31255,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -31266,7 +31266,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31278,7 +31278,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "7e25d066-832b-468c-8f9d-7c7df604e6e7")
 		(at 120.475 96.675 180)
@@ -32897,7 +32897,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -32908,7 +32908,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32920,7 +32920,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "802a05d3-c351-4bc2-af5d-0e5a13f88b51")
 		(at 82.375 88.1025 180)
@@ -34539,7 +34539,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -34550,7 +34550,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34562,7 +34562,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "9c127872-4e12-43a8-bf39-f923c46faa6f")
 		(at 120.475 58.575 180)
@@ -36181,7 +36181,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -36192,7 +36192,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36204,7 +36204,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "a04c0264-e264-4897-a139-e276dcb5b9a0")
 		(at 63.325 90.96 180)
@@ -37823,7 +37823,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -37834,7 +37834,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37846,7 +37846,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "a2ff04c1-bd6f-4821-96c6-ea48f36ee6b7")
 		(at 101.425 93.8175 180)
@@ -39465,7 +39465,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -39476,7 +39476,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39488,7 +39488,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "a9b9c51a-7094-4e37-ac17-ce46bf4bbd15")
 		(at 63.325 119.05875 180)
@@ -41107,7 +41107,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -41118,7 +41118,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41130,7 +41130,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "b6b5aa7f-9610-41a6-88b6-2039cd2afa36")
 		(at 107.404874 115.933822 176)
@@ -42749,7 +42749,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -42760,7 +42760,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42772,7 +42772,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "c6a16911-53d0-4356-acfb-ef822cf7be02")
 		(at 101.425 74.7675 180)
@@ -44391,7 +44391,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -44402,7 +44402,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44414,7 +44414,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "c73f611b-8cbb-4cf9-88ec-b8dea97c7656")
 		(at 120.475 39.525 180)
@@ -46033,7 +46033,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -46044,7 +46044,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46056,7 +46056,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "cc237b02-bbf8-40ac-bd8e-1af425036ef7")
 		(at 101.425 36.6675 180)
@@ -47675,7 +47675,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -47686,7 +47686,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47698,7 +47698,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "d2212e53-2c57-4c46-a634-9f5f7e0b1197")
 		(at 25.225 119.05875 180)
@@ -49317,7 +49317,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -49328,7 +49328,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49340,7 +49340,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "d2c7733d-4790-4eb4-97ad-837bc7d672e8")
 		(at 128.270967 120.037042 161.75)
@@ -50959,7 +50959,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -50970,7 +50970,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50982,7 +50982,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "dfcdbd3d-f01f-40b5-8862-1600844b92e6")
 		(at 86.17079 117.093111 -169.75)
@@ -52601,7 +52601,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -52612,7 +52612,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52624,7 +52624,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "e666f385-fe59-44bc-9a08-961d4c5c3b1f")
 		(at 120.475 77.625 180)
@@ -54243,7 +54243,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -54254,7 +54254,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54266,7 +54266,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "edca6081-16fd-4312-8c8a-bcc723e77d24")
 		(at 44.275 119.05875 180)
@@ -55885,7 +55885,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -55896,7 +55896,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -55908,7 +55908,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "f01f014a-b78b-4a6c-a918-ac23d068a860")
 		(at 44.275 42.85875 180)
@@ -57527,7 +57527,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -57538,7 +57538,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -57550,7 +57550,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "f47ac4b0-d1d2-4670-b053-da385512c2e2")
 		(at 82.375 50.0025 180)
@@ -59169,7 +59169,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -59180,7 +59180,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -59192,7 +59192,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+	(footprint "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 		(layer "B.Cu")
 		(uuid "fc331584-aa26-4a94-85aa-b34b60602a55")
 		(at 63.325 33.81 180)
@@ -60811,7 +60811,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
 			(offset
 				(xyz -5.025 -7.925 1.8375)
 			)
@@ -60822,7 +60822,7 @@
 				(xyz 90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 			(offset
 				(xyz 0 0 0)
 			)

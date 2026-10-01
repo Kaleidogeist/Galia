@@ -11,7 +11,7 @@
 		(title "Galia motherboard (G0B1)")
 		(date "2026-09-30")
 		(rev "V0.4")
-		(company "By Ghostly Butterfly (https://github.com/ghostlybutterfly/Galia/)")
+		(company "By Kaleidogeist (https://github.com/Kaleidogeist/Galia/)")
 		(comment 1 "Licensed under CERN-OHL-S-2.0")
 	)
 	(layers
@@ -155,7 +155,7 @@
 			(outputdirectory "DXF/")
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "08a73429-72d7-48f6-b43f-710d96ac486d")
 		(at 29 32 -90)
@@ -439,7 +439,7 @@
 			)
 		)
 	)
-	(footprint "GB-HolePad:MountingHole_JLC-Tooling"
+	(footprint "Kaleidogeist-HolePad:MountingHole_JLC-Tooling"
 		(layer "F.Cu")
 		(uuid "09023bbd-7d4b-4d14-abc4-67c0d7862d35")
 		(at 25.4 49)
@@ -613,7 +613,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "GB-Package:USON-10_2.5x1.0mm_P0.5mm"
+	(footprint "Kaleidogeist-Package:USON-10_2.5x1.0mm_P0.5mm"
 		(layer "F.Cu")
 		(uuid "0af4d84c-3f86-4864-be07-b0669129683b")
 		(at 30.25 43.4)
@@ -1012,7 +1012,7 @@
 			)
 		)
 	)
-	(footprint "GB-HolePad:MountingHole_3.2mm_M3_Pad_Via"
+	(footprint "Kaleidogeist-HolePad:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "1181f5dc-7005-4bed-9e59-d18ee724b871")
 		(at 25.4 34 135)
@@ -1298,7 +1298,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "118ed904-0513-4865-9a41-fa80b3cbe80e")
 		(at 45.15 31.65)
@@ -1582,7 +1582,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "11d17480-39d3-40a9-b519-8fac2868126a")
 		(at 43.8 28.5 -90)
@@ -1867,7 +1867,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0603_1608Metric"
+	(footprint "Kaleidogeist-Device:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "13940d59-cbbd-43b7-9c84-881050665a08")
 		(at 38.3 20.8 90)
@@ -2151,7 +2151,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "14f736d8-76ab-4795-91f4-cff876ff7a2e")
 		(at 60.82 32.25)
@@ -2397,7 +2397,7 @@
 			(uuid "4e7b27e3-8f95-473a-999b-128a1e1b6a90")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2409,7 +2409,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
+	(footprint "Kaleidogeist-Package:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 		(layer "F.Cu")
 		(uuid "17b3158f-ba74-44da-92c8-db90c327fc62")
 		(at 35.4 20.7)
@@ -2804,7 +2804,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "183636a8-aebd-4c8c-8161-1117bdd0e23b")
 		(at 70.98 26.05)
@@ -3050,7 +3050,7 @@
 			(uuid "3ff8c622-f78b-4d53-b2f3-d1e71e555eab")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3062,7 +3062,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "19d4a3a5-48ad-48c1-b675-aa81fcf9365c")
 		(at 31.5 37.55 180)
@@ -3346,7 +3346,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "220e1c9f-e14e-41f4-8c0a-85b34c03c430")
 		(at 30.6 41.45)
@@ -3631,7 +3631,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "2388d4f9-e439-4b8a-83b7-bc3baaa040ea")
 		(at 34.1 23.25)
@@ -3916,7 +3916,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:SOT-323_SC-70-3"
+	(footprint "Kaleidogeist-Package:SOT-323_SC-70-3"
 		(layer "F.Cu")
 		(uuid "2b170566-8bc9-4adb-8b92-8050bbc9516f")
 		(at 61.05 22.95 180)
@@ -4274,7 +4274,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "2cbefba7-67bb-4a7f-b481-5f602830471f")
 		(at 63.36 26.05)
@@ -4520,7 +4520,7 @@
 			(uuid "bf9da5c3-b200-43e1-a74d-22ac2abad920")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4532,7 +4532,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "2de343f2-ae17-4a6e-8c84-e589fd3145f7")
 		(at 37.2 33.05 180)
@@ -4816,7 +4816,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "340c8314-41c5-4b45-85db-fc5d88f0abe8")
 		(at 40 21.5 -90)
@@ -5100,7 +5100,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "399e88a5-5812-47f8-af9c-7ce3f8f7c10a")
 		(at 56.7 22.85 -90)
@@ -5385,7 +5385,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "3a1d7211-de5e-445d-ad10-19abe050dd33")
 		(at 29.8 38.65 180)
@@ -5631,7 +5631,7 @@
 			(uuid "fe86bf4c-6cee-48d9-a023-079e85febfc3")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5643,7 +5643,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0603_1608Metric"
+	(footprint "Kaleidogeist-Device:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "3b5e5fe2-9d81-4e58-8353-37868379fbcb")
 		(at 64.6 22.9 90)
@@ -5928,7 +5928,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "42c60ef3-7628-4c88-be38-1bd81e587b35")
 		(at 58.28 26.05)
@@ -6174,7 +6174,7 @@
 			(uuid "58fd042e-f331-4bbd-84dd-fc73c3c3e5f6")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6186,7 +6186,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "46471cd1-9527-4eb4-97b1-67bd75b66172")
 		(at 60.7 21.2)
@@ -6470,7 +6470,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:USON-10_2.5x1.0mm_P0.5mm"
+	(footprint "Kaleidogeist-Package:USON-10_2.5x1.0mm_P0.5mm"
 		(layer "F.Cu")
 		(uuid "49f69e6b-9cf0-4c2d-8031-8cd19522b192")
 		(at 30.25 24.6)
@@ -6869,7 +6869,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "4c188a1b-3847-486d-9606-67d079e307d0")
 		(at 65.9 26.05)
@@ -7115,7 +7115,7 @@
 			(uuid "2f3647c1-01e9-47b9-b66b-b1548a500ad4")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7127,7 +7127,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
+	(footprint "Kaleidogeist-Package:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 		(layer "F.Cu")
 		(uuid "4cb9c0f1-77ff-4805-8c0b-3763153ecba6")
 		(at 30.65 33.6 90)
@@ -7522,7 +7522,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "51933ba1-2e01-4ea3-accc-17138790fdb2")
 		(at 45.15 32.95)
@@ -7806,7 +7806,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "5227b698-1782-4f96-9639-5bf6078f1b29")
 		(at 34.1 25.05 180)
@@ -8090,7 +8090,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "54580f92-6a7e-44d4-921b-6c8db1976429")
 		(at 43.95 29.65 180)
@@ -8375,7 +8375,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "554f9209-34e9-43d7-8b5b-d0037056bd09")
 		(at 33.55 20.35 90)
@@ -8659,7 +8659,7 @@
 			)
 		)
 	)
-	(footprint "GB-Connector:USB_C_Receptacle_Molex_2169900001"
+	(footprint "Kaleidogeist-Connector:USB_C_Receptacle_Molex_2169900001"
 		(layer "F.Cu")
 		(uuid "5ac29752-df93-457c-a113-f5db4fd572f5")
 		(at 21.2 43.4 -90)
@@ -9964,7 +9964,7 @@
 			(uuid "072b3806-2691-40a8-aca3-59669634d6fd")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/Molex_2169900001.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/Molex_2169900001.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9976,7 +9976,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0603_1608Metric"
+	(footprint "Kaleidogeist-Device:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "5b59775a-cd69-4595-b45c-d2dc23360825")
 		(at 44.85 28.15 -90)
@@ -10261,7 +10261,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "5b99203f-5260-41fb-b13c-42e5dcc0c506")
 		(at 60.82 26.05)
@@ -10507,7 +10507,7 @@
 			(uuid "414bf07c-db18-4f2d-af9d-7ee2dfc786b7")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10519,7 +10519,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0603_1608Metric"
+	(footprint "Kaleidogeist-Device:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "6676cbc2-f313-4df2-9bcd-826addc31038")
 		(at 30.75 30.7 180)
@@ -10803,7 +10803,7 @@
 			)
 		)
 	)
-	(footprint "GB-Logo:This_Space_Intentionally_Left_Blank"
+	(footprint "Kaleidogeist-Logo:This_Space_Intentionally_Left_Blank"
 		(layer "F.Cu")
 		(uuid "68d621b5-060f-4e1f-a05d-65533c5b869c")
 		(at 51 25.2)
@@ -11979,7 +11979,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "GB-HolePad:MountingHole_JLC-Tooling"
+	(footprint "Kaleidogeist-HolePad:MountingHole_JLC-Tooling"
 		(layer "F.Cu")
 		(uuid "70bd8a9e-c40d-4dda-af94-375596ccdf38")
 		(at 25.4 18.95)
@@ -12153,7 +12153,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "734f3252-e230-42ef-859e-ab95cec50d2b")
 		(at 68.44 26.05)
@@ -12399,7 +12399,7 @@
 			(uuid "3e46f268-28d5-49ea-a079-cc5cd734a50c")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12411,7 +12411,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "73f0b32b-c1ac-4a01-ba20-73310f88ea4e")
 		(at 64.7 24.4 180)
@@ -12696,7 +12696,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "7536b0d4-c532-4374-9ce1-cd2ca05bfc1c")
 		(at 29 30.2 -90)
@@ -12980,7 +12980,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "76987370-3168-4bfd-9944-22a5deb0198f")
 		(at 30.3 35.45 180)
@@ -13264,7 +13264,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:L_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:L_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "7d9d8096-8ec0-43f0-8abf-5c3a62abf946")
 		(at 30.35 21 -90)
@@ -13548,7 +13548,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "839eb7e3-9ecf-4328-a3fd-e3716f48f7a5")
 		(at 68.44 32.25)
@@ -13794,7 +13794,7 @@
 			(uuid "079c5660-735a-471d-9787-90d8a03b1bb1")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13806,7 +13806,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "867776e1-ce13-4f9c-bb3b-379b5400b172")
 		(at 29.8 19.85 180)
@@ -14052,7 +14052,7 @@
 			(uuid "f4c35e35-98fa-4f9d-8a7d-235e68951818")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14064,7 +14064,7 @@
 			)
 		)
 	)
-	(footprint "GB-Connector:USB_C_Receptacle_Molex_2169900001"
+	(footprint "Kaleidogeist-Connector:USB_C_Receptacle_Molex_2169900001"
 		(layer "F.Cu")
 		(uuid "926835cb-34e2-4b09-83a5-f3f4893f6740")
 		(at 21.2 24.6 -90)
@@ -15369,7 +15369,7 @@
 			(uuid "659327e9-72c8-4a5d-9d52-4ab877dc40be")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/Molex_2169900001.step"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/Molex_2169900001.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15381,7 +15381,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
+	(footprint "Kaleidogeist-Package:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
 		(layer "F.Cu")
 		(uuid "9b5b916f-1faf-4b26-8121-44ae5d4b1f01")
 		(at 38.7 28.7 180)
@@ -16449,7 +16449,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ad8875f6-9063-4943-a1c6-816dc92b283a")
 		(at 46.55 32.3)
@@ -16733,7 +16733,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "b6372a5e-dc87-484f-b13a-cba055cae1f8")
 		(at 58.28 32.25)
@@ -16979,7 +16979,7 @@
 			(uuid "e1578300-b871-402e-8346-106be298fb1f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16991,7 +16991,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "b99da9ae-0832-40fb-9ab9-0e16a5d542f7")
 		(at 37.25 21.15 90)
@@ -17275,7 +17275,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "c05faaef-b0ee-40ed-94cf-b4e53b04b504")
 		(at 36.6 23.25 180)
@@ -17559,7 +17559,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:L_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:L_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "c19ec282-fe76-4547-9d7f-82ee8668bee3")
 		(at 30.35 39.8 90)
@@ -17843,7 +17843,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "c45148e0-d3df-4164-a699-3b96ac9d205a")
 		(at 43.8 20.65 -90)
@@ -18127,7 +18127,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "cb837312-6e0a-4dbb-991d-c31f6ce7fc89")
 		(at 65.9 32.25)
@@ -18373,7 +18373,7 @@
 			(uuid "f47a0b2a-6cac-427a-b66b-a80b452a230a")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18385,7 +18385,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ccb05190-6a6a-4b23-aab7-c757cbbe737f")
 		(at 56.7 21.45 90)
@@ -18669,7 +18669,7 @@
 			)
 		)
 	)
-	(footprint "GB-HolePad:MountingHole_3.2mm_M3_Pad_Via"
+	(footprint "Kaleidogeist-HolePad:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "d42f98e7-856b-4c6b-a44d-1b7b15170fe1")
 		(at 68.6 21.4 90)
@@ -18955,7 +18955,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "d77737f9-37cc-4acf-ae41-f30e699ca567")
 		(at 30.6 45.35)
@@ -19240,7 +19240,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "df2aeeef-c4dc-4669-9b3e-7a6395f867b7")
 		(at 64.5 21.4 180)
@@ -19524,7 +19524,7 @@
 			)
 		)
 	)
-	(footprint "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+	(footprint "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(layer "F.Cu")
 		(uuid "dff20ab1-dca4-455e-8c21-5081117c9630")
 		(at 63.36 32.25)
@@ -19770,7 +19770,7 @@
 			(uuid "c8f63737-e28f-4545-9e49-c49d14475bd4")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19782,7 +19782,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e11d87a5-f1c9-46c7-8b1b-8f2dcdda9daa")
 		(at 34.1 25.95)
@@ -20067,7 +20067,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e12d74d7-0cfe-4553-8a29-835581d17f16")
 		(at 31.1 31.75)
@@ -20351,7 +20351,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:L_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:L_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "f4d22e1f-7ac1-4c29-ae09-9ede16843a14")
 		(at 43.3 30.8)
@@ -20635,7 +20635,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:C_0603_1608Metric"
+	(footprint "Kaleidogeist-Device:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "f4f6605e-ee2d-4d6e-9d8c-06e15f7fc13e")
 		(at 31.45 20.7 90)
@@ -20919,7 +20919,7 @@
 			)
 		)
 	)
-	(footprint "GB-Device:R_0402_1005Metric"
+	(footprint "Kaleidogeist-Device:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "f8b7d199-ae8d-44ca-a1a4-cc5a0dee0888")
 		(at 34.1 24.15 180)
@@ -21203,7 +21203,7 @@
 			)
 		)
 	)
-	(footprint "GB-HolePad:MountingHole_JLC-Tooling"
+	(footprint "Kaleidogeist-HolePad:MountingHole_JLC-Tooling"
 		(layer "F.Cu")
 		(uuid "fa258347-40a7-454a-a52b-796351f533fc")
 		(at 71.0001 33.0001)
@@ -21377,7 +21377,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "GB-Package:SOT-23-3"
+	(footprint "Kaleidogeist-Package:SOT-23-3"
 		(layer "F.Cu")
 		(uuid "fa7fb8c8-6c6c-4809-95cb-929bfc994806")
 		(at 41.45 20.3 180)
@@ -21776,7 +21776,7 @@
 			)
 		)
 	)
-	(footprint "GB-Switch:SW_Alps_SKSNLM_SKSNLP"
+	(footprint "Kaleidogeist-Switch:SW_Alps_SKSNLM_SKSNLP"
 		(layer "F.Cu")
 		(uuid "fcec1c51-11fc-43f4-878a-ac893ecd2b78")
 		(at 60.65 18)
@@ -22451,7 +22451,7 @@
 			(uuid "4f814ac3-f9de-4571-8530-44db9f002d59")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Alps_SKSNLP.STEP"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_Alps_SKSNLP.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22463,7 +22463,7 @@
 			)
 		)
 	)
-	(footprint "GB-Header:PinHeader_2x06_2.54mm_MillMax_PogoTarget_419-10-212-00-001000-Double_Sided"
+	(footprint "Kaleidogeist-Header:PinHeader_2x06_2.54mm_MillMax_PogoTarget_419-10-212-00-001000-Double_Sided"
 		(layer "F.Cu")
 		(uuid "fe29f8a9-8a3f-49f1-b084-cb30bb6fcb71")
 		(at 57.93 27.88 90)
@@ -22983,7 +22983,7 @@
 			(uuid "db5fb77e-93df-483c-a27d-81fb9b8e717f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Header/Mill-Max_419-10-212-00-001000.STEP"
+		(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Header/Mill-Max_419-10-212-00-001000.STEP"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -22996,7 +22996,7 @@
 			)
 		)
 	)
-	(footprint "GB-Logo:This_Space_Intentionally_Left_Blank"
+	(footprint "Kaleidogeist-Logo:This_Space_Intentionally_Left_Blank"
 		(layer "B.Cu")
 		(uuid "56dd9ce9-c007-42ec-ad8f-929923adb7b4")
 		(at 50.95 25.2 180)
@@ -24982,7 +24982,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "GB-Misc:SolderJumper-2_P1.2mm_Open_Pad1.0x1.4mm"
+	(footprint "Kaleidogeist-Misc:SolderJumper-2_P1.2mm_Open_Pad1.0x1.4mm"
 		(layer "B.Cu")
 		(uuid "e8e1a321-d474-4ab8-a3c7-b28c53d8f8a0")
 		(at 36.35 32.85 180)

@@ -745,7 +745,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "GB-Device:D_Polarized_TVS_Small"
+		(symbol "Kaleidogeist-Device:D_Polarized_TVS_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -911,7 +911,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "GB-IC:74HC595B"
+		(symbol "Kaleidogeist-IC:74HC595B"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1316,7 +1316,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "GB-Switch:SW_Push_Small"
+		(symbol "Kaleidogeist-Switch:SW_Push_Small"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -8161,7 +8161,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 45.72 119.38 0)
 		(mirror y)
 		(unit 1)
@@ -8192,7 +8192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 45.72 119.38 90)
 			(hide yes)
 			(show_name no)
@@ -8338,7 +8338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Header:PinHeader_2x06_2.54mm_MillMax_PogoPin_823-22-012-10-000101-Double_Sided"
+		(property "Footprint" "Kaleidogeist-Header:PinHeader_2x06_2.54mm_MillMax_PogoPin_823-22-012-10-000101-Double_Sided"
 			(at 71.12 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -8439,7 +8439,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 200.66 106.68 0)
 		(unit 1)
 		(body_style 1)
@@ -8470,7 +8470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 200.66 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -8519,7 +8519,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 185.42 152.4 0)
 		(unit 1)
 		(body_style 1)
@@ -8550,7 +8550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 185.42 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -8599,7 +8599,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 185.42 121.92 0)
 		(mirror y)
 		(unit 1)
@@ -8631,7 +8631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 185.42 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -8994,7 +8994,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 81.28 114.3 90)
 		(mirror x)
 		(unit 1)
@@ -9027,7 +9027,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 81.28 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -9174,7 +9174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9268,7 +9268,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 170.18 137.16 0)
 		(unit 1)
 		(body_style 1)
@@ -9299,7 +9299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 170.18 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -9505,7 +9505,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 215.9 137.16 0)
 		(mirror y)
 		(unit 1)
@@ -9537,7 +9537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 215.9 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -9664,7 +9664,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 170.18 152.4 0)
 		(unit 1)
 		(body_style 1)
@@ -9695,7 +9695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 170.18 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -9822,7 +9822,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 215.9 152.4 0)
 		(unit 1)
 		(body_style 1)
@@ -9853,7 +9853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 215.9 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -9981,7 +9981,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 231.14 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -10012,7 +10012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 231.14 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10061,7 +10061,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 99.06 119.38 0)
 		(mirror x)
 		(unit 1)
@@ -10092,7 +10092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 99.06 119.38 90)
 			(hide yes)
 			(show_name no)
@@ -10207,7 +10207,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 215.9 91.44 0)
 		(mirror y)
 		(unit 1)
@@ -10239,7 +10239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 215.9 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10288,7 +10288,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 170.18 106.68 0)
 		(unit 1)
 		(body_style 1)
@@ -10319,7 +10319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 170.18 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -10368,7 +10368,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 200.66 137.16 0)
 		(unit 1)
 		(body_style 1)
@@ -10399,7 +10399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 200.66 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -10448,7 +10448,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 200.66 152.4 0)
 		(unit 1)
 		(body_style 1)
@@ -10479,7 +10479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 200.66 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -10528,7 +10528,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-IC:74HC595B")
+		(lib_id "Kaleidogeist-IC:74HC595B")
 		(at 40.64 40.64 90)
 		(mirror x)
 		(unit 1)
@@ -10561,7 +10561,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
+		(property "Footprint" "Kaleidogeist-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 			(at 40.64 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10767,7 +10767,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 231.14 121.92 0)
 		(unit 1)
 		(body_style 1)
@@ -10798,7 +10798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 231.14 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -10926,7 +10926,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-IC:74HC595B")
+		(lib_id "Kaleidogeist-IC:74HC595B")
 		(at 93.98 40.64 90)
 		(mirror x)
 		(unit 1)
@@ -10959,7 +10959,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
+		(property "Footprint" "Kaleidogeist-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 			(at 93.98 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11086,7 +11086,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-IC:74HC595B")
+		(lib_id "Kaleidogeist-IC:74HC595B")
 		(at 200.66 40.64 90)
 		(mirror x)
 		(unit 1)
@@ -11119,7 +11119,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
+		(property "Footprint" "Kaleidogeist-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 			(at 200.66 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11246,7 +11246,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 93.98 132.08 0)
 		(mirror x)
 		(unit 1)
@@ -11277,7 +11277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 93.98 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -11470,7 +11470,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-IC:74HC595B")
+		(lib_id "Kaleidogeist-IC:74HC595B")
 		(at 147.32 40.64 90)
 		(mirror x)
 		(unit 1)
@@ -11503,7 +11503,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
+		(property "Footprint" "Kaleidogeist-Package:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 			(at 147.32 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11708,7 +11708,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 93.98 134.62 0)
 		(mirror x)
 		(unit 1)
@@ -11739,7 +11739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 93.98 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -11854,7 +11854,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 215.9 121.92 0)
 		(mirror y)
 		(unit 1)
@@ -11886,7 +11886,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 215.9 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -12172,7 +12172,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 200.66 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -12203,7 +12203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 200.66 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -12252,7 +12252,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 246.38 121.92 0)
 		(mirror y)
 		(unit 1)
@@ -12284,7 +12284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 246.38 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -12491,7 +12491,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 200.66 121.92 0)
 		(unit 1)
 		(body_style 1)
@@ -12522,7 +12522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 200.66 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -12571,7 +12571,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 246.38 152.4 0)
 		(unit 1)
 		(body_style 1)
@@ -12602,7 +12602,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 246.38 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -12727,7 +12727,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 55.88 144.78 0)
 		(mirror y)
 		(unit 1)
@@ -12758,7 +12758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 55.88 144.78 90)
 			(hide yes)
 			(show_name no)
@@ -12873,7 +12873,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 261.62 152.4 0)
 		(unit 1)
 		(body_style 1)
@@ -12904,7 +12904,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 261.62 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -12985,7 +12985,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 76.2 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13079,7 +13079,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 170.18 121.92 0)
 		(unit 1)
 		(body_style 1)
@@ -13110,7 +13110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 170.18 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -13269,7 +13269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 182.88 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13442,7 +13442,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 185.42 91.44 0)
 		(mirror y)
 		(unit 1)
@@ -13474,7 +13474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 185.42 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -13523,7 +13523,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 185.42 137.16 0)
 		(mirror y)
 		(unit 1)
@@ -13555,7 +13555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 185.42 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -13604,7 +13604,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 246.38 137.16 0)
 		(mirror y)
 		(unit 1)
@@ -13636,7 +13636,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 246.38 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -13685,7 +13685,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 231.14 106.68 0)
 		(unit 1)
 		(body_style 1)
@@ -13716,7 +13716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 231.14 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -13765,7 +13765,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 231.14 152.4 0)
 		(unit 1)
 		(body_style 1)
@@ -13796,7 +13796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 231.14 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -13845,7 +13845,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 99.06 121.92 0)
 		(mirror x)
 		(unit 1)
@@ -13876,7 +13876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 99.06 121.92 90)
 			(hide yes)
 			(show_name no)
@@ -14023,7 +14023,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 22.86 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14117,7 +14117,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 246.38 106.68 0)
 		(mirror y)
 		(unit 1)
@@ -14149,7 +14149,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 246.38 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -14198,7 +14198,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 215.9 106.68 0)
 		(mirror y)
 		(unit 1)
@@ -14230,7 +14230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 215.9 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -14279,7 +14279,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 170.18 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -14310,7 +14310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 170.18 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14359,7 +14359,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 45.72 121.92 0)
 		(mirror y)
 		(unit 1)
@@ -14390,7 +14390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 45.72 121.92 90)
 			(hide yes)
 			(show_name no)
@@ -14582,7 +14582,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 50.8 134.62 0)
 		(mirror y)
 		(unit 1)
@@ -14613,7 +14613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 50.8 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -14728,7 +14728,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 246.38 91.44 0)
 		(mirror y)
 		(unit 1)
@@ -14760,7 +14760,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 246.38 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14888,7 +14888,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 63.5 114.3 90)
 		(mirror x)
 		(unit 1)
@@ -14921,7 +14921,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 63.5 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -15036,7 +15036,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 231.14 137.16 0)
 		(unit 1)
 		(body_style 1)
@@ -15067,7 +15067,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 231.14 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -15116,7 +15116,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small")
 		(at 185.42 106.68 0)
 		(mirror y)
 		(unit 1)
@@ -15148,7 +15148,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
+		(property "Footprint" "Kaleidogeist-Switch:SW_KB_Choc-KS33_1U_Hotswap_Reversible"
 			(at 185.42 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -15592,7 +15592,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 50.8 132.08 0)
 		(mirror y)
 		(unit 1)
@@ -15623,7 +15623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 50.8 132.08 90)
 			(hide yes)
 			(show_name no)

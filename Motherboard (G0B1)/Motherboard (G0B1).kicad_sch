@@ -8,7 +8,7 @@
 		(title "Galia motherboard (G0B1)")
 		(date "2026-09-30")
 		(rev "V0.4")
-		(company "By Ghostly Butterfly (https://github.com/ghostlybutterfly/Galia/)")
+		(company "By Kaleidogeist (https://github.com/Kaleidogeist/Galia/)")
 		(comment 1 "Licensed under CERN-OHL-S-2.0")
 		(comment 2 "All capacitors 50V unless otherwise specified.")
 	)
@@ -2020,7 +2020,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "GB-Device:D_Polarized_TVS_Small"
+		(symbol "Kaleidogeist-Device:D_Polarized_TVS_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2186,7 +2186,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "GB-IC:TPD4E05U06"
+		(symbol "Kaleidogeist-IC:TPD4E05U06"
 			(pin_names
 				(offset 0)
 			)
@@ -2215,7 +2215,7 @@
 					)
 				)
 			)
-			(property "Footprint" "GB-Package:USON-10_2.5x1.0mm_P0.5mm"
+			(property "Footprint" "Kaleidogeist-Package:USON-10_2.5x1.0mm_P0.5mm"
 				(at -24.13 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3297,7 +3297,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "GB-IC:TPS2553DR"
+		(symbol "Kaleidogeist-IC:TPS2553DR"
 			(pin_names
 				(offset 0.254)
 			)
@@ -3326,7 +3326,7 @@
 					)
 				)
 			)
-			(property "Footprint" "GB-Package:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
+			(property "Footprint" "Kaleidogeist-Package:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 				(at 0 -1.524 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3511,7 +3511,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "GB-Misc:MountingHole_Pad"
+		(symbol "Kaleidogeist-Misc:MountingHole_Pad"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3634,7 +3634,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "GB-Misc:SolderJumper_2_Open"
+		(symbol "Kaleidogeist-Misc:SolderJumper_2_Open"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -3833,7 +3833,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "GB-Switch:SW_Push_Small_MP"
+		(symbol "Kaleidogeist-Switch:SW_Push_Small_MP"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -16993,7 +16993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Header:PinHeader_2x06_2.54mm_MillMax_PogoTarget_419-10-212-00-001000-Double_Sided"
+		(property "Footprint" "Kaleidogeist-Header:PinHeader_2x06_2.54mm_MillMax_PogoTarget_419-10-212-00-001000-Double_Sided"
 			(at 342.9 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -17126,7 +17126,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 63.5 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -17272,7 +17272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 114.3 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -17419,7 +17419,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 35.56 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -17724,7 +17724,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 236.22 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -17948,7 +17948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 162.56 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -18063,7 +18063,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Misc:SolderJumper_2_Open")
+		(lib_id "Kaleidogeist-Misc:SolderJumper_2_Open")
 		(at 142.24 251.46 270)
 		(unit 1)
 		(body_style 1)
@@ -18095,7 +18095,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Misc:SolderJumper-2_P1.2mm_Open_Pad1.0x1.4mm"
+		(property "Footprint" "Kaleidogeist-Misc:SolderJumper-2_P1.2mm_Open_Pad1.0x1.4mm"
 			(at 142.24 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -18319,7 +18319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 162.56 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -18468,7 +18468,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 142.24 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -18661,7 +18661,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 370.84 175.26 0)
 		(mirror x)
 		(unit 1)
@@ -18692,7 +18692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 370.84 175.26 90)
 			(hide yes)
 			(show_name no)
@@ -18807,7 +18807,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 320.04 33.02 270)
 		(unit 1)
 		(body_style 1)
@@ -18839,7 +18839,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 320.04 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -18987,7 +18987,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 195.58 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -19366,7 +19366,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0603_1608Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0603_1608Metric"
 			(at 309.88 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -19559,7 +19559,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 365.76 187.96 0)
 		(mirror x)
 		(unit 1)
@@ -19590,7 +19590,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 365.76 187.96 90)
 			(hide yes)
 			(show_name no)
@@ -19782,7 +19782,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-IC:TPS2553DR")
+		(lib_id "Kaleidogeist-IC:TPS2553DR")
 		(at 223.52 106.68 0)
 		(unit 1)
 		(body_style 1)
@@ -19813,7 +19813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
+		(property "Footprint" "Kaleidogeist-Package:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 			(at 223.52 108.204 0)
 			(hide yes)
 			(show_name no)
@@ -19942,7 +19942,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 327.66 198.12 0)
 		(mirror y)
 		(unit 1)
@@ -19973,7 +19973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 327.66 198.12 90)
 			(hide yes)
 			(show_name no)
@@ -20120,7 +20120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 246.38 248.92 0)
 			(hide yes)
 			(show_name no)
@@ -20268,7 +20268,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0603_1608Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0603_1608Metric"
 			(at 256.54 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -20415,7 +20415,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:L_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:L_0402_1005Metric"
 			(at 33.782 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -20530,7 +20530,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 353.06 167.64 90)
 		(mirror x)
 		(unit 1)
@@ -20563,7 +20563,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 353.06 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -20678,7 +20678,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-IC:TPD4E05U06")
+		(lib_id "Kaleidogeist-IC:TPD4E05U06")
 		(at 50.8 99.06 0)
 		(unit 1)
 		(body_style 1)
@@ -20708,7 +20708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:USON-10_2.5x1.0mm_P0.5mm"
+		(property "Footprint" "Kaleidogeist-Package:USON-10_2.5x1.0mm_P0.5mm"
 			(at 26.67 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -20878,7 +20878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Connector:USB_C_Receptacle_Molex_2169900001"
+		(property "Footprint" "Kaleidogeist-Connector:USB_C_Receptacle_Molex_2169900001"
 			(at 34.29 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -21038,7 +21038,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Misc:MountingHole_Pad")
+		(lib_id "Kaleidogeist-Misc:MountingHole_Pad")
 		(at 388.62 48.26 270)
 		(mirror x)
 		(unit 1)
@@ -21072,7 +21072,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-HolePad:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "Kaleidogeist-HolePad:MountingHole_3.2mm_M3_Pad_Via"
 			(at 387.35 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -21370,7 +21370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 119.38 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -21519,7 +21519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 276.86 248.92 0)
 			(hide yes)
 			(show_name no)
@@ -21667,7 +21667,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Package:SOT-323_SC-70-3"
+		(property "Footprint" "Kaleidogeist-Package:SOT-323_SC-70-3"
 			(at 274.32 250.825 0)
 			(hide yes)
 			(show_name no)
@@ -21898,7 +21898,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 152.4 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -22013,7 +22013,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 370.84 172.72 0)
 		(mirror x)
 		(unit 1)
@@ -22044,7 +22044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 370.84 172.72 90)
 			(hide yes)
 			(show_name no)
@@ -22427,7 +22427,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 93.98 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -22652,7 +22652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 109.22 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -22922,7 +22922,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 365.76 185.42 0)
 		(mirror x)
 		(unit 1)
@@ -22953,7 +22953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 365.76 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -23338,7 +23338,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 93.98 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -23487,7 +23487,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 63.5 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -23636,7 +23636,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 114.3 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -24094,7 +24094,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0603_1608Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0603_1608Metric"
 			(at 53.34 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -24399,7 +24399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-HolePad:MountingHole_JLC-Tooling"
+		(property "Footprint" "Kaleidogeist-HolePad:MountingHole_JLC-Tooling"
 			(at 388.62 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -24540,7 +24540,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 139.7 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -24689,7 +24689,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 180.34 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -24836,7 +24836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 104.14 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -24982,7 +24982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:SOT-23-3"
+		(property "Footprint" "Kaleidogeist-Package:SOT-23-3"
 			(at 170.18 95.885 0)
 			(hide yes)
 			(show_name no)
@@ -25100,7 +25100,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-IC:TPS2553DR")
+		(lib_id "Kaleidogeist-IC:TPS2553DR")
 		(at 127 33.02 0)
 		(unit 1)
 		(body_style 1)
@@ -25131,7 +25131,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
+		(property "Footprint" "Kaleidogeist-Package:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 			(at 127 34.544 0)
 			(hide yes)
 			(show_name no)
@@ -25292,7 +25292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Connector:USB_C_Receptacle_Molex_2169900001"
+		(property "Footprint" "Kaleidogeist-Connector:USB_C_Receptacle_Molex_2169900001"
 			(at 349.25 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -25685,7 +25685,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 335.28 167.64 90)
 		(mirror x)
 		(unit 1)
@@ -25718,7 +25718,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 335.28 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -25833,7 +25833,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 317.5 172.72 0)
 		(mirror y)
 		(unit 1)
@@ -25864,7 +25864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 317.5 172.72 90)
 			(hide yes)
 			(show_name no)
@@ -25979,7 +25979,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 83.82 33.02 90)
 		(mirror x)
 		(unit 1)
@@ -26012,7 +26012,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 83.82 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -26160,7 +26160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-HolePad:MountingHole_JLC-Tooling"
+		(property "Footprint" "Kaleidogeist-HolePad:MountingHole_JLC-Tooling"
 			(at 388.62 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -26268,7 +26268,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 322.58 185.42 0)
 		(mirror y)
 		(unit 1)
@@ -26299,7 +26299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 322.58 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -26526,7 +26526,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 251.46 254 0)
 			(hide yes)
 			(show_name no)
@@ -26750,7 +26750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Device:L_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:L_0402_1005Metric"
 			(at 327.66 29.718 90)
 			(hide yes)
 			(show_name no)
@@ -26944,7 +26944,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Misc:MountingHole_Pad")
+		(lib_id "Kaleidogeist-Misc:MountingHole_Pad")
 		(at 388.62 43.18 270)
 		(mirror x)
 		(unit 1)
@@ -26978,7 +26978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-HolePad:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "Kaleidogeist-HolePad:MountingHole_3.2mm_M3_Pad_Via"
 			(at 387.35 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -27249,7 +27249,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 261.62 254 0)
 			(hide yes)
 			(show_name no)
@@ -27476,7 +27476,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 236.22 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -27703,7 +27703,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0603_1608Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0603_1608Metric"
 			(at 147.32 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -27851,7 +27851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-HolePad:MountingHole_JLC-Tooling"
+		(property "Footprint" "Kaleidogeist-HolePad:MountingHole_JLC-Tooling"
 			(at 388.62 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -27959,7 +27959,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Switch:SW_Push_Small_MP")
+		(lib_id "Kaleidogeist-Switch:SW_Push_Small_MP")
 		(at 251.46 236.22 270)
 		(unit 1)
 		(body_style 1)
@@ -27991,7 +27991,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Switch:SW_Alps_SKSNLM_SKSNLP"
+		(property "Footprint" "Kaleidogeist-Switch:SW_Alps_SKSNLM_SKSNLP"
 			(at 251.46 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -28217,7 +28217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0603_1608Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0603_1608Metric"
 			(at 256.54 248.92 0)
 			(hide yes)
 			(show_name no)
@@ -28365,7 +28365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Device:C_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:C_0402_1005Metric"
 			(at 160.02 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -28558,7 +28558,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-IC:TPD4E05U06")
+		(lib_id "Kaleidogeist-IC:TPD4E05U06")
 		(at 332.74 99.06 0)
 		(mirror y)
 		(unit 1)
@@ -28589,7 +28589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:USON-10_2.5x1.0mm_P0.5mm"
+		(property "Footprint" "Kaleidogeist-Package:USON-10_2.5x1.0mm_P0.5mm"
 			(at 356.87 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -28762,7 +28762,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 271.78 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -29067,7 +29067,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 73.66 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -29261,7 +29261,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 322.58 187.96 0)
 		(mirror y)
 		(unit 1)
@@ -29292,7 +29292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 322.58 187.96 90)
 			(hide yes)
 			(show_name no)
@@ -29595,7 +29595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Device:L_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:L_0402_1005Metric"
 			(at 53.34 29.718 90)
 			(hide yes)
 			(show_name no)
@@ -29744,7 +29744,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GB-Device:R_0402_1005Metric"
+		(property "Footprint" "Kaleidogeist-Device:R_0402_1005Metric"
 			(at 154.94 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -29970,7 +29970,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GB-Package:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
+		(property "Footprint" "Kaleidogeist-Package:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
 			(at 50.8 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -30226,7 +30226,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GB-Device:D_Polarized_TVS_Small")
+		(lib_id "Kaleidogeist-Device:D_Polarized_TVS_Small")
 		(at 317.5 175.26 0)
 		(mirror y)
 		(unit 1)
@@ -30257,7 +30257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GB-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
+		(property "Footprint" "Kaleidogeist-Package:X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 			(at 317.5 175.26 90)
 			(hide yes)
 			(show_name no)
